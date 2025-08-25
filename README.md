@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhoelnhico&label=Profile%20views&color=0e75b6&style=flat" alt="nhoelnhico" /> </p>
 
-- 🔭 I’m currently working on **Chrmaesthetics Inc**
+- 🔭 I’m currently working on **Chromaesthetics Inc**
 
 - 📫 How to reach me **nhico.ortazon@gmail.com**
 
