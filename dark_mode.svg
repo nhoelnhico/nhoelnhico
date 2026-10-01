@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="821" height="562" viewBox="0 0 821 562" font-family="Consolas, 'Courier New', monospace" font-size="14px">
+<style>.text{fill:#c9d1d9}.key{fill:#ffa657}.value{fill:#a5d6ff}.dots{fill:#616e7f}.head{fill:#ff7b72}.art{fill:#c9d1d9}</style>
+<rect x="0.5" y="0.5" width="820" height="561" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="20" y="34" class="art" xml:space="preserve">                 =++=+**####*+=</text>
+<text x="20" y="52" class="art" xml:space="preserve">              +*#%%%%#%%%%%%%%%#+</text>
+<text x="20" y="70" class="art" xml:space="preserve">            =#%#%%%%%%%%%%%%%%%%%%+</text>
+<text x="20" y="88" class="art" xml:space="preserve">           +#%%%%%%%%%%%%%%%%%%%%%%*</text>
+<text x="20" y="106" class="art" xml:space="preserve">          -%%%%%%%%%%%%%%%%%%%%%%%%%=</text>
+<text x="414.8" y="106" xml:space="preserve"><tspan class="head">nhico@github</tspan><tspan class="dots"> ---------------------------------</tspan></text>
+<text x="20" y="124" class="art" xml:space="preserve">           %%%%%%%%%%%%%%@@%##%%%%%%%</text>
+<text x="20" y="142" class="art" xml:space="preserve">           *%%##%@%%%%%@%%#*==*%##%%#</text>
+<text x="414.8" y="142" xml:space="preserve"><tspan class="key">OS:</tspan><tspan class="dots"> .................................. </tspan><tspan class="value">Windows</tspan></text>
+<text x="20" y="160" class="art" xml:space="preserve">            %+-+#%#%#%#%*=+#%%%#+-#*</text>
+<text x="414.8" y="160" xml:space="preserve"><tspan class="key">Uptime:</tspan><tspan class="dots"> ........... </tspan><tspan class="value">30 years, 1 month, 20 days</tspan></text>
+<text x="20" y="178" class="art" xml:space="preserve">            +%=*+-#%=---=*%+%###=++</text>
+<text x="414.8" y="178" xml:space="preserve"><tspan class="key">Host:</tspan><tspan class="dots"> ......................... </tspan><tspan class="value">GRWM Cosmetics</tspan></text>
+<text x="20" y="196" class="art" xml:space="preserve">             =*-+=++-----=++*+--:-</text>
+<text x="414.8" y="196" xml:space="preserve"><tspan class="key">Kernel:</tspan><tspan class="dots"> ................. </tspan><tspan class="value">Full-Stack Developer</tspan></text>
+<text x="20" y="214" class="art" xml:space="preserve">           =+*+.:-=----------==--</text>
+<text x="414.8" y="214" xml:space="preserve"><tspan class="key">IDE:</tspan><tspan class="dots"> .................... </tspan><tspan class="value">VS Code, Claude Code</tspan></text>
+<text x="20" y="232" class="art" xml:space="preserve">         *@@@@. ..:------=--=*=+=:</text>
+<text x="20" y="250" class="art" xml:space="preserve">        %@###+::-===---===+++++=</text>
+<text x="414.8" y="250" xml:space="preserve"><tspan class="key">Languages.Programming:</tspan><tspan class="dots"> .......... </tspan><tspan class="value">PHP, JS, SQL</tspan></text>
+<text x="20" y="268" class="art" xml:space="preserve">**##%#%%@#+#+=+==+***++++++*##*.</text>
+<text x="414.8" y="268" xml:space="preserve"><tspan class="key">Languages.Real:</tspan><tspan class="dots"> ............ </tspan><tspan class="value">English, Filipino</tspan></text>
+<text x="20" y="286" class="art" xml:space="preserve">@@@@%%%%@%-=*+++++++*#%##*++==*#*</text>
+<text x="414.8" y="286" xml:space="preserve"><tspan class="key">Hobbies:</tspan><tspan class="dots"> ..................... </tspan><tspan class="value">Your hobby here</tspan></text>
+<text x="20" y="304" class="art" xml:space="preserve">%%%%%%%%@*::-==+++##%%%#%%%%%%@@@@%#</text>
+<text x="20" y="322" class="art" xml:space="preserve">%%%%%%%%@+.:.:-+**###%%##@@@@%%%%%%@@%#</text>
+<text x="414.8" y="322" xml:space="preserve"><tspan class="dots">- </tspan><tspan class="head">Contact</tspan><tspan class="dots"> ------------------------------------</tspan></text>
+<text x="20" y="340" class="art" xml:space="preserve">%%%%%%%%@+.....:-=--===+%@%%%%%%%%%%%%@@#</text>
+<text x="414.8" y="340" xml:space="preserve"><tspan class="key">Email:</tspan><tspan class="dots"> ......................... </tspan><tspan class="value">you@email.com</tspan></text>
+<text x="20" y="358" class="art" xml:space="preserve">%%%%%%%%@*...........:=*@%%%%%%%%%%%%%%%%@#</text>
+<text x="414.8" y="358" xml:space="preserve"><tspan class="key">LinkedIn:</tspan><tspan class="dots"> .................... </tspan><tspan class="value">in/your-profile</tspan></text>
+<text x="20" y="376" class="art" xml:space="preserve">%%%%%%%%@* ..   ....:=+%@%%%%%%%%%%%%%%%%%#</text>
+<text x="20" y="394" class="art" xml:space="preserve">%%%%%%%%@* ...    .-=-+@%%%%%%%%%%%%%%%%%%*</text>
+<text x="414.8" y="394" xml:space="preserve"><tspan class="dots">- </tspan><tspan class="head">GitHub Stats</tspan><tspan class="dots"> -------------------------------</tspan></text>
+<text x="20" y="412" class="art" xml:space="preserve">%%%%%%%%@*..:.   .=-:-%@%%%%%%%%%%%%%%%%%@*</text>
+<text x="414.8" y="412" xml:space="preserve"><tspan class="key">Repos:</tspan><tspan class="dots"> .................................... </tspan><tspan class="value">12</tspan></text>
+<text x="20" y="430" class="art" xml:space="preserve">%%%%%%%%@*.::   :=-::*@%%%%%%%%%%%%%%%%%%@</text>
+<text x="414.8" y="430" xml:space="preserve"><tspan class="key">Stars:</tspan><tspan class="dots"> .................................... </tspan><tspan class="value">34</tspan></text>
+<text x="20" y="448" class="art" xml:space="preserve">%%%%%%%%@*.:: .-=-::-%@%%%%%%%%%%%%%%%%%%%</text>
+<text x="414.8" y="448" xml:space="preserve"><tspan class="key">Commits:</tspan><tspan class="dots"> ................................. </tspan><tspan class="value">567</tspan></text>
+<text x="20" y="466" class="art" xml:space="preserve">%%%%%%%%@*:-. -=-:::*@%%%%%%%%%%%%%%%%%%@*</text>
+<text x="414.8" y="466" xml:space="preserve"><tspan class="key">Followers:</tspan><tspan class="dots"> ................................. </tspan><tspan class="value">8</tspan></text>
+<text x="20" y="484" class="art" xml:space="preserve">%%%%%%%%@*=:.-=-:::-%@%%%%%%%%%%%%%%%%%%%</text>
+<text x="20" y="502" class="art" xml:space="preserve">%%%%%%%%%#-.-=-:::.+@%%%%%%%%%%%%%%%%%%%%</text>
+<text x="20" y="520" class="art" xml:space="preserve">%%%%%%%%@+.-=-:::..#@%%%%%%%%%%%%%%%%%%@*</text>
+<text x="20" y="538" class="art" xml:space="preserve">%%%%%%%@%::=-:::..+%%%%%%%%%%%%%@@%%%%%@*</text>
+</svg>

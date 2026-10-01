@@ -2,8 +2,8 @@ name: Update profile README
 
 on:
   schedule:
-    - cron: "5 16 * * *" # daily at 12:05 AM Philippine time
-  workflow_dispatch: # lets you run it manually from the Actions tab
+    - cron: "5 16 * * *"   # daily at 12:05 AM Philippine time
+  workflow_dispatch:        # lets you run it manually from the Actions tab
   push:
     paths:
       - update.py
@@ -28,6 +28,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md dark_mode.svg light_mode.svg
           git diff --cached --quiet || git commit -m "Update README stats"
           git push
